@@ -222,7 +222,6 @@ ggsave("Total_Rides_by_Month_and_User_Type.png", plot = last_plot(), dpi = 300)
 
 ## Average Ride Length by Month and User Type
 ```{r}
-# LOOOOOOOOOI
 final_data %>%
   group_by(member_casual, month) %>% 
   summarize(average_ride_length = round(mean(ride_length), digits = 2))%>% 
