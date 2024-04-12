@@ -3,6 +3,8 @@
 This capstone project is the final part of the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Cousera. The main objective of this project is for me to demonstrate the skills acquired throughout the course and apply them to real-world scenarios. As a junior data analyst within the marketing analyst team of Cyclistic, a fictional bike-share company, I will go through 6 phases of the data analysis process in this project including **Ask, Prepare, Process, Analyze and Act.** 
 
 
+
+
 ## Table of contents
 - [STEP 1: ASK](#Step-1-ask)
     - [1.1 Background](#11-background)
