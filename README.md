@@ -19,7 +19,7 @@ This capstone project is the final part of the [Google Data Analytics Certifica
 - [STEP 5: SHARE](#step-5-share)
 - [STEP 6: ACT](#step-6-act)
 
-*Quick Link:* [Github R Code](https://github.com/alitanguyen/Cyclistic-bike-share-analysis/tree/main)
+*Quick Link:* [Github R Code](https://github.com/alitanguyen/Cyclistic-bike-share-analysis/blob/main/Final_Analysis.Rmd)
     
 ## **STEP 1: ASK**
 
@@ -566,7 +566,7 @@ Below are my recommendations to help convert the casual riders into annual membe
 
 ---
 
-*This comes to the end of my first capstone project in data analytics. You can view my full code on my Github for this project [here](https://github.com/alitanguyen/Cyclistic-bike-share-analysis/tree/main).* 
+*This comes to the end of my first capstone project in data analytics. You can view my full code on my Github for this project [here](https://github.com/alitanguyen/Cyclistic-bike-share-analysis/blob/main/Final_Analysis.Rmd).* 
 
 *If you have any comments or suggestions, please feel free to let me know. Thank you for reading my analysis!* 
 
